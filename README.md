@@ -1,5 +1,9 @@
 # Wednesday 18 November 2026 — The World in One Day
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/labixiaoge/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/labixiaoge/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 [![make.fun](https://img.shields.io/badge/make.fun-news--image--20261118-blue)](https://make.fun/c/news-image-20261118)
 [![prize $250](https://img.shields.io/badge/prize-%24250%20shared%20by%20top%2050-green)](https://make.fun/c/news-image-20261118)
 
@@ -39,3 +43,7 @@ headline:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=j11gmnzr&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
